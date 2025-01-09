@@ -23,7 +23,7 @@ facexlib==0.3.0
 fake-useragent
 filelock==3.16.1
 filterpy==1.4.5
-Flask==3.1.0
+Flask
 fonttools==4.55.3
 frozenlist==1.5.0
 fsspec==2024.12.0

@@ -10,7 +10,7 @@ APScheduler==3.11.0
 attrs==24.2.0
 basicsr==1.4.2
 beautifulsoup4==4.12.3
-blinker==1.9.0
+blinker
 bs4==0.0.2
 certifi==2024.8.30
 charset-normalizer==3.4.0

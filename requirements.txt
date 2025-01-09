@@ -20,7 +20,7 @@ contourpy
 cssselect==1.2.0
 cycler==0.12.1
 facexlib==0.3.0
-fake-useragent==2.0.3
+fake-useragent
 filelock==3.16.1
 filterpy==1.4.5
 Flask==3.1.0

@@ -10,7 +10,7 @@ FACE_UPSAMPLE = False
 
 # Set up the environment
 def setup_environment():
-    subprocess.run(['pip', 'install', '-r', 'requirements.txt'], check=True)
+    subprocess.run(['pip', 'install', '-r', 'CodeFormer/requirements.txt'], check=True)
     subprocess.run(['python', 'basicsr/setup.py', 'develop'], check=True)
 
 # Download pre-trained models
